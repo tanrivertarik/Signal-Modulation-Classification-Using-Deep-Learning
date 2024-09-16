@@ -125,6 +125,8 @@ The model successfully classifies new signals by:
 - **Predicting Modulation Types:** Outputting probability distributions over the modulation classes.
 - **Recognizing Modulations:** Correctly identifying the true modulation type in most cases.
 
+- ![alt text](https://github.com/[tanrivertarik]/[Signal-Modulation-Classification-Using-Deep-Learning]/blob/[branch]/accuracy.png?raw=true)
+
 Example output:
 
 ```
