@@ -98,11 +98,11 @@ The model combines CNN and LSTM layers to capture spatial and temporal features 
 ### Evaluation Metrics
 
 - **Accuracy:** Monitored during training and validation phases.
-- ![accuracy](https://ibb.co/Y20gM90)
+
 - **Confusion Matrix:** Visualized to assess model performance on individual classes.
-- ![confusion matrix](https://ibb.co/1ZLxDDQ)
+
 - **Loss Curves:** Plotted to observe convergence and detect overfitting.
-- ![Loss Curves](https://ibb.co/f2VbTcP)
+
 
 ## Results
 
