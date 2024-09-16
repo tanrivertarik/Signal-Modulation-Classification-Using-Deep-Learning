@@ -14,6 +14,8 @@ This project explores the application of deep learning techniques, specifically 
 - **Provide a mechanism** to classify new signals and verify the model's predictions.
 - **Document the process and results** for reproducibility and further research.
 
+- 
+
 ## Dataset Overview
 
 The RadioML 2018.01A dataset is a comprehensive collection of synthetic and over-the-air recordings of 24 different digital and analog modulation types. Key characteristics of the dataset include:
@@ -96,8 +98,11 @@ The model combines CNN and LSTM layers to capture spatial and temporal features 
 ### Evaluation Metrics
 
 - **Accuracy:** Monitored during training and validation phases.
+- ![accuracy](https://ibb.co/Y20gM90)
 - **Confusion Matrix:** Visualized to assess model performance on individual classes.
+- ![confusion matrix](https://ibb.co/1ZLxDDQ)
 - **Loss Curves:** Plotted to observe convergence and detect overfitting.
+- ![Loss Curves](https://ibb.co/f2VbTcP)
 
 ## Results
 
@@ -125,7 +130,7 @@ The model successfully classifies new signals by:
 - **Predicting Modulation Types:** Outputting probability distributions over the modulation classes.
 - **Recognizing Modulations:** Correctly identifying the true modulation type in most cases.
 
-- ![alt text](https://github.com/[tanrivertarik]/[Signal-Modulation-Classification-Using-Deep-Learning]/blob/[branch]/accuracy.png?raw=true)
+
 
 Example output:
 
